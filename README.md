@@ -1,2 +1,2 @@
 # kubectl-service
-Create a Service using kubectl
+Create an external loadbalancer Service using kubectl
